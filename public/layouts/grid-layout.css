@@ -8,3 +8,15 @@ body {
   height: 100%;
   border: 5px solid orange;
 }
+
+#header-block {
+  border: 1px solid red;
+}
+
+#main-block {
+  border: 1px solid green;
+}
+
+#footer-block {
+  border: 1px solid blue;
+}

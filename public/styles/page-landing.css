@@ -1,0 +1,17 @@
+:root {
+  --color-background-body: rgb(35, 204, 204);
+  --color-background-fallback: #333;
+}
+
+#page-landing {
+  background-color: antiquewhite;
+}
+
+#header-block {
+}
+
+#main-block {
+}
+
+#footer-block {
+}
